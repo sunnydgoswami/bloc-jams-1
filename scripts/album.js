@@ -70,7 +70,7 @@ var createSongRow = function(songNumber, songName, songLength) {
              var $volumeFill = $('.volume .fill');
              var $volumeThumb = $('.volume .thumb');
              $volumeFill.width(currentVolume + '%');
-             $volumeThumb.css({left: currentVolume + '%'});             
+             $volumeThumb.css({left: currentVolume + '%'});
              updatePlayerBarSong();
      	 } else if (currentlyPlayingSongNumber === songNumber) {
              if (currentSoundFile.isPaused()){
