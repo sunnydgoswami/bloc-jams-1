@@ -272,12 +272,3 @@ var togglePlayFromPlayerBar = function () {
         });
  });
 };
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
-"SCHIND"
->>>>>>> checkpoint-21
-=======
->>>>>>> checkpoint-21
